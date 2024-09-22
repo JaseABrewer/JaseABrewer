@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaseABrewer
 - 👀 I’m interested in ... a programming career
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ... nothing right now until I get some basics down
 - 📫 How to reach me ... cusimnot@googlemail.com
 
